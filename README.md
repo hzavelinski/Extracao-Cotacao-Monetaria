@@ -1,4 +1,4 @@
-#Projeto de Pipelines de Dados com Airflow e Azure Databricks
+# Projeto de Pipelines de Dados com Airflow e Azure Databricks
 
 Este projeto demonstra a construção de pipelines de dados utilizando Apache Airflow e Azure Databricks para coletar, processar e analisar cotações diárias de câmbio de uma API. Os dados são transformados e salvos em formato Parquet utilizando PySpark, e são enviados relatórios periódicos em formato CSV e gráficos com o histórico das cotações.
 
